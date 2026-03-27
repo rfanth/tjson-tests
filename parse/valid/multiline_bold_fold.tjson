@@ -1,0 +1,5 @@
+  key: ``
+  | real line one
+  | second line that is long and
+  / continues here
+   ``

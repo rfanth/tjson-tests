@@ -1,0 +1,17 @@
+{
+  "a": 5,
+  "6": "fred",
+  "obj": {
+    "o1": 8,
+    "o2": [
+      "ary1veryverylong",
+      "ary2veryverylong",
+      "ary3",
+      "ary4",
+      "ary5",
+      "ary6medium",
+      "ary7"
+    ],
+    "o3": "o3value"
+  }
+}
