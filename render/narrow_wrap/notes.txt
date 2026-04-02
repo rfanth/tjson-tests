@@ -1,0 +1,4 @@
+These are carefully constructed so there is only one right answer.  There are lots and lots of line folding algorithms with their own pluses and minuses, we dont want to pick the one true way to do that for the test suite.
+
+object.tjson in optional is very arguable here, it would be defensible to fold at the colon.  Most implementations shouldn't test against this example as its too ambiguous in expected output.
+

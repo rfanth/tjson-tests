@@ -1,0 +1,2 @@
+This has too many right answers right now.
+object.tjson is very arguable here, it would be defensible to fold at the colon.  Most implementations shouldn't test against this example as it's too ambiguous.
