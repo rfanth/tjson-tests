@@ -1,0 +1,6 @@
+[ { city: London
+    pop:9000000
+  { city: Paris
+    pop:2100000
+  { city: Berlin
+    pop:3700000
