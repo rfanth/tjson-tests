@@ -1,0 +1,7 @@
+{ data: /<
+  rows:
+  [ |x    |y    |
+    | aa  | bb  |
+    | cc  | dd  |
+    | ee  | ff  |
+   />

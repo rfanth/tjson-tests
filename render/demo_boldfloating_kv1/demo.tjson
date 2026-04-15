@@ -1,0 +1,12 @@
+  name: Alice  age:30  active:true
+  bio: ``
+  | She is a developer.
+  | She loves Rust.
+   ``
+  scores:  90, 85, 92
+  tags:   rust,  wasm,  json,  serialization
+  team:
+    |name    |age  |role    |
+    | Alice  |30   | admin  |
+    | Bob    |25   | user   |
+    | Carol  |35   | user   |
